@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Pocket Calculator",
+    "slug": "pool-lucky-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "newArchEnabled": true
+  }
+}
